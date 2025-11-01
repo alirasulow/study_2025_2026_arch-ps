@@ -1,0 +1,8 @@
+Lab 4 - NASM Assembly
+Completed by: Ali Rasulov
+
+Programs created:
+1. hello.asm - Hello World program
+2. echo.asm - Program with user input
+
+Both programs compiled and ran successfully!
